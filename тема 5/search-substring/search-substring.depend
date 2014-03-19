@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393708708 source:/home/pingvin/Yandex.Disk/Программы/задачи МП II семестр/тема 5/search-substring/main-substring.cpp
+	<iostream>
+	<string>
+	<vector>
+

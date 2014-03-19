@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393441117 source:/home/pingvin/Yandex.Disk/Программы/задачи МП II семестр/тема 5/boyer–moore/main-boyer–moore.cpp
+	<iostream>
+	<string>
+	<vector>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1393350245 source:/home/pingvin/Yandex.Disk/Программы/задачи МП II семестр/тема 4/huffman/main-huffman.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+	<string>
+	<map>
+

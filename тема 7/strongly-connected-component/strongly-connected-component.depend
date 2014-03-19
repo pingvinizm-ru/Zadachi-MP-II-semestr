@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1394306814 source:/home/pingvin/Yandex.Disk/Программы/задачи МП II семестр/тема 7/strongly-connected-component/main-scc.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+

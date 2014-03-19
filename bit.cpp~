@@ -1,0 +1,28 @@
+#include <string>
+#include <iostream>
+
+using namespace std;
+
+bool greater_in_bit(string &a, string &b, int bit)
+{
+            bool result = true;
+            int t = (1 << (7 - bit % 8));
+            result = (a[bit / 8] & t);//(b[bit / 8] & t); 
+            return result;
+}
+
+int main()
+{
+	string t1,t2 = "1";
+	int x;
+for (int i = 0; i < 10; i++)
+{
+
+	cin >> t1;
+	for (int j = 0; j <=7; j++)
+		cout << greater_in_bit(t1,t2,j);
+	cout << endl;;
+}
+
+	return 0;
+}

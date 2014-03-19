@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1394209181 source:/home/pingvin/Yandex.Disk/Программы/задачи МП II семестр/тема 6/spanning-tree/main-spanning-tree.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<map>
+
