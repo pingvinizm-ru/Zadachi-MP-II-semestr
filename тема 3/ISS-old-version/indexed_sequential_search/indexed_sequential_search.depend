@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393266802 source:/home/pingvin/Yandex.Disk/Программы/задачи МП II семестр/тема 3/ISS/indexed_sequential_search/main_ISS.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+
