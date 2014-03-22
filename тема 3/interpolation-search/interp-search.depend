@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393264987 source:/home/pingvin/Yandex.Disk/Программы/задачи МП II семестр/тема 3/interpolation/interp-search/interpolation.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+
