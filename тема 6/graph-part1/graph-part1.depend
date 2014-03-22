@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1393784070 source:/home/pingvin/Yandex.Disk/Программы/задачи МП II семестр/тема 6/graph-part1/main-graph-p1.cpp
-	<iostream>
-	<fstream>
-	<queue>
-

@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1394369936 source:/home/pingvin/Yandex.Disk/Программы/задачи МП II семестр/тема 7/fleury/main-fleury.cpp
-	<iostream>
-	<fstream>
-	<vector>
-
